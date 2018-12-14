@@ -1,0 +1,1 @@
+how to connect datatbase in php mysql 
